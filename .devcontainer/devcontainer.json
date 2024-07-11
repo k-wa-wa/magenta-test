@@ -1,0 +1,6 @@
+{
+    "name": "magenta devcontainer",
+    "build": {
+        "dockerfile": "../Dockerfile"
+    }
+}
